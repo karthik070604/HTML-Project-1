@@ -1,0 +1,266 @@
+* {
+    margin: opx;
+    padding: 0px;
+}
+
+.h1 {
+    background-color: cornflowerblue;
+    padding-top: 5px;
+}
+
+.d1 {
+    padding-bottom: 5px;
+    color: aliceblue;
+}
+
+.h2 {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background-color: antiquewhite;
+}
+
+.h3 {
+    text-decoration: none;
+    color: maroon;
+}
+
+.h4 {
+    background-color: cornflowerblue;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.h6 {
+    background-color: cornflowerblue;
+    padding-bottom: 3px;
+    padding-top: 5px;
+}
+
+.d2 {
+    color: aliceblue;
+}
+
+.c11 {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    margin-left: 2px;
+}
+
+.c12 {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    margin-left: 2px;
+}
+
+.h7 {
+    background-color: antiquewhite;
+}
+
+table,tr,td{
+    background-color: white;
+}
+td{
+    text-align: center;
+    padding: 30px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+table{
+    width: 100%;
+}
+.f1,.f2,.f3,.f4,.f5,.f6,.f7,.f8,.f9,.f10,.f11,.f12,.f13,.f14,.f15,.f16,.f17,.f18,.f19,.f20,.f21,.f22,.f23,.f24,.f25,.f26,.f27{
+    text-decoration: none;
+    color: maroon;
+}
+.f1:hover{
+    color: black;
+    text-decoration: underline;    
+}
+.f1:active{
+    color: cornflowerblue;
+}
+.f2:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f2:active{
+    color: cornflowerblue;
+}
+.f3:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f3:active{
+    color: cornflowerblue;
+}
+.f4:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f4:active{
+    color: cornflowerblue;
+}
+.f5:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f5:active{
+    color: cornflowerblue;
+}
+.f6:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f6:active{
+    color: cornflowerblue;
+}
+.f7:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f7:active{
+    color: cornflowerblue;
+}
+.f8:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f8:active{
+    color: cornflowerblue;
+}
+.f9:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f9:active{
+    color: cornflowerblue;
+}
+.f10:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f10:active{
+    color: cornflowerblue;
+}
+.f11:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f11:active{
+    color: cornflowerblue;
+}
+.f12:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f12:active{
+    color: cornflowerblue;
+}
+.f13:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f13:active{
+    color: cornflowerblue;
+}
+.f14:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f14:active{
+    color: cornflowerblue;
+}
+.f15:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f15:active{
+    color: cornflowerblue;
+}
+.f16:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f16:active{
+    color: cornflowerblue;
+}
+.f17:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f17:active{
+    color: cornflowerblue;
+}
+.f18:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f18:active{
+    color: cornflowerblue;
+}
+.f19:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f19:active{
+    color: cornflowerblue;
+}
+.f20:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f20:active{
+    color: cornflowerblue;
+}
+.f21:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f21:active{
+    color: cornflowerblue;
+}
+.f22:hover{
+    color:black;
+    text-decoration: underline;
+}
+.f22:active{
+    color: cornflowerblue;
+}
+.f23:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f23:active{
+    color: cornflowerblue;
+}
+.f24:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f24:active{
+    color: cornflowerblue;
+}
+.f25:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f25:active{
+    color: cornflowerblue;
+}
+.f26:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f26:active{
+    color: cornflowerblue;
+}
+.f27:hover{
+    color: black;
+    text-decoration: underline;
+}
+.f27:active{
+    color: cornflowerblue;
+}
